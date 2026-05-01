@@ -21,12 +21,11 @@ Currently, I am strengthening my **Data Structures & Algorithms** and actively s
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
 ## 📊 GitHub Statistics
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sushil338&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushil338&layout=compact&theme=radical&cache_seconds=1800)
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sushil338&show_icons=true&theme=radical&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushil338&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sushil338&theme=radical)
 

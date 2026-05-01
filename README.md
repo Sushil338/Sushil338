@@ -23,12 +23,11 @@ Currently, I am strengthening my **Data Structures & Algorithms** and actively s
 ---
 ## 📊 GitHub Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushil338&layout=compact&theme=radical&cache_seconds=1800)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushil338&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sushil338&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sushil338&theme=radical)
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sushil338&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 ---

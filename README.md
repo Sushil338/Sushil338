@@ -28,4 +28,8 @@ Currently, I am strengthening my **Data Structures & Algorithms** and actively s
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sushil338&show_icons=true&theme=radical&count_private=true)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sushil338&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sushil338&theme=radical)
+
 ---
